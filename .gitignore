@@ -1,1 +1,27 @@
-venv
+# React Native
+node_modules/
+*.log
+android/.gradle/
+ios/Pods/
+*.xcworkspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.env
+venv/
+
+# Golang
+bin/
+*.exe
+*.out
+*.test
+
+# General
+.DS_Store
+*.swp
+.idea/
+.vscode/
+.env.local
+.env.*
